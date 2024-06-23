@@ -8,7 +8,7 @@ const SocialLinks = () => {
     const links=[
         {
             id:1,child:(<>LinkedIn <FaLinkedin size={25}></FaLinkedin></>),href: 'https://www.linkedin.com/in/shiva-kumar-r-b1a16624a/',
-            style: 'rounded-tr-md bg-blue-800'
+            style: 'rounded-tr-md bg-blue-600'
         },
         {
             id:2,child:(<> Github<FaGithub size={25}></FaGithub></>),href: 'https://github.com/Shivakumar0017', style: 'bg-slate-900' ,

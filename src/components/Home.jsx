@@ -24,7 +24,7 @@ const Home = () => {
           </p>
 
           <div 
-              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-green-500 to-lime-500 cursor-pointer md:hidden mx-auto"  >
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-green-500 to-lime-500 cursor-pointer  mx-auto"  >
                <a
               href="/resume.pdf"
               className="flex justify-between items-center w-full text-white"
